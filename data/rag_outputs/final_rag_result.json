@@ -1,0 +1,36 @@
+{
+    "question": "What is the difference between machine learning and deep learning?",
+    "answer": "The provided documents do not contain information about the difference between machine learning and deep learning.",
+    "sources": [
+        {
+            "doc_id": "DOC0123",
+            "topic": "Deep Learning",
+            "chunk_id": 0,
+            "rerank_score": 4.764101028442383
+        },
+        {
+            "doc_id": "DOC0147",
+            "topic": "Deep Learning",
+            "chunk_id": 0,
+            "rerank_score": 4.725505828857422
+        },
+        {
+            "doc_id": "DOC0118",
+            "topic": "Deep Learning",
+            "chunk_id": 0,
+            "rerank_score": 2.94938325881958
+        },
+        {
+            "doc_id": "DOC0114",
+            "topic": "Deep Learning",
+            "chunk_id": 0,
+            "rerank_score": 2.7527308464050293
+        },
+        {
+            "doc_id": "DOC0146",
+            "topic": "Deep Learning",
+            "chunk_id": 0,
+            "rerank_score": 2.7527308464050293
+        }
+    ]
+}
